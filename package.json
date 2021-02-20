@@ -1,6 +1,7 @@
 {
-	"author" : "Sydney Boruett",
+	
 	"name": "fcc-learn-npm-package-json",
+	"author" : "Sydney Boruett",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
