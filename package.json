@@ -1,14 +1,16 @@
 {
-	
 	"name": "fcc-learn-npm-package-json",
-	"description":"a sample learning code",
-	"keywords": ["freecodecamp","learn","example"],
+	"description": "a sample learning code",
+	"keywords": [
+		"freecodecamp",
+		"learn",
+		"example"
+	],
 	"license": "MIT",
 	"version": "1.2.0",
-	"author" : "Sydney",
+	"author": "Sydney",
 	"dependencies": {
-		"express": "^4.14.0",
-		"moment": "2.14.0"
+		"express": "^4.14.0"
 	},
 	"main": "server.js",
 	"scripts": {
@@ -18,5 +20,4 @@
 		"type": "git",
 		"url": "https://idontknow/todo.git"
 	}
-	
 }
