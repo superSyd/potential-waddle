@@ -3,6 +3,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"description":"a sample learning code",
 	"keywords": ["freecodecamp","learn","example"],
+	"license": "MIT",
 	"author" : "Sydney",
 	"dependencies": {
 		"express": "^4.14.0"
