@@ -7,7 +7,9 @@
 	"version": "1.2.0",
 	"author" : "Sydney",
 	"dependencies": {
-		"express": "^4.14.0"
+		"express": "^4.14.0",
+		"package-name": "moment",
+		"version": "2.14.0"
 	},
 	"main": "server.js",
 	"scripts": {
